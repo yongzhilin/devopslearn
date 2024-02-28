@@ -38,6 +38,7 @@
     </dependencyManagement>
 
     <build>
+        <finalName>mytest.jar</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
