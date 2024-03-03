@@ -8,3 +8,4 @@ services:
     container_name: mytest
     ports:
       - 8083:8082
+    tty: true
