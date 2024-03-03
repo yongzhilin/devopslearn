@@ -38,7 +38,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>mytest.jar</finalName>
+        <finalName>mytest</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
