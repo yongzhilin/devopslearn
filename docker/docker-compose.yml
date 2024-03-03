@@ -9,3 +9,4 @@ services:
     ports:
       - 8083:8082
     tty: true
+    command: /bin/bash
